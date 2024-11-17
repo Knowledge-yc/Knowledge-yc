@@ -1,12 +1,12 @@
+<!-- 打字特效 -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Knowledge-yc!;Always+act+with+intention+and+passion.)
-
-- 👋 Hi, I’m @Knowledge-yc
+- ### 👋 Hi, I’m @Knowledge-yc
 - 👀 I’m interested in front-end, full stack and FPGA
 - 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on like-minded people
+<!-- - 💞️ I’m looking to collaborate on like-minded people -->
 - 📫 How to reach me: via my Email
-- 😄 Pronouns: just do it.
-- ⚡ Fun fact: none
+<!-- - 😄 Pronouns: just do it.
+- ⚡ Fun fact: none -->
 
 <!-- GitHub 统计卡片 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knowledge-yc)
@@ -25,6 +25,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/knowledge-yc/knowledge-yc/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=knowledge-yc&show_icons=true&&hide_border=true" alt="knowledge-yc's Github Stats" width="50%">
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowledge-yc&layout=compact" />
 <!---
 Knowledge-yc/Knowledge-yc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
