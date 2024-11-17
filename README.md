@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to Knowledge-yc!;Always act with intention and passion.)
+
 - 👋 Hi, I’m @Knowledge-yc
 - 👀 I’m interested in front-end, full stack and FPGA
 - 🌱 I’m currently learning Vue
