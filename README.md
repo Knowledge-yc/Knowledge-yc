@@ -3,10 +3,10 @@
 - ### 👋 Hi, I’m @Knowledge-yc</p>
 - 👀 I’m interested in front-end, full stack and FPGA</p>
 - 🌱 I’m currently learning Vue</p>
-<!-- - 💞️ I’m looking to collaborate on like-minded people -->
+- 💞️ I’m looking to collaborate on like-minded people
 - 📫 How to reach me: via my Email</P>
-<!-- - 😄 Pronouns: just do it.
-- ⚡ Fun fact: none -->
+- 😄 Pronouns: just do it.
+- ⚡ Fun fact: none
 
 <!-- GitHub 统计卡片 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knowledge-yc)
