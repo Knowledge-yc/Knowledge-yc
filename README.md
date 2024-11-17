@@ -25,9 +25,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/knowledge-yc/knowledge-yc/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=knowledge-yc&show_icons=true&&hide_border=true" alt="knowledge-yc's Github Stats" width="50%">
-<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowledge-yc&layout=compact" />
 <!---
 Knowledge-yc/Knowledge-yc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
