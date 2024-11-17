@@ -1,10 +1,10 @@
 <!-- 打字特效 -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Knowledge-yc!;Always+act+with+intention+and+passion.)
-- ### 👋 Hi, I’m @Knowledge-yc</p>
-- 👀 I’m interested in front-end, full stack and FPGA</p>
-- 🌱 I’m currently learning Vue</p>
+- ### 👋 Hi, I’m @Knowledge-yc
+- 👀 I’m interested in front-end, full stack and FPGA
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on like-minded people
-- 📫 How to reach me: via my Email</P>
+- 📫 How to reach me: via my Email
 - 😄 Pronouns: just do it.
 - ⚡ Fun fact: none
 
